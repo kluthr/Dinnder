@@ -1,4 +1,4 @@
-Name, Fast/Medium/Slow, Healthiness, Price, Sweet/Savory, Delivers, Pickup Fee, Bar
+Name,Speed,Healthiness,Price,Flavor,Delivers,PickupFee,Bar
 Salad Cart,fast,3,1,savory,0,0,0
 Dot's,medium,1,2,savory,0,1,1
 Ramen Cart,fast,2,1,savory,0,0,0
